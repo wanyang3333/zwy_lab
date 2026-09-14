@@ -3,5 +3,5 @@
 int main()
 {
     // @TODO: print a sentence you want.
-    printf("This is my first project!\n");
+    printf("Edited in main.\n");
 }
